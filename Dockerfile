@@ -68,7 +68,10 @@ WORKDIR /app
 RUN adduser -u 10000 --disabled-password --gecos "" appuser && chown -R appuser /app
 
 COPY src .
+COPY gunicorn.conf.py .
 
 USER appuser
 
-CMD ["python3", "main.py"]
+# CMD ["python3", "main.py"]
+# Run the application with Gunicorn
+CMD ["gunicorn", "main:app", "--config", "gunicorn.conf.py"]
