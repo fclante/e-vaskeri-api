@@ -2,9 +2,8 @@ name: Deploy E-Vaskeri API
 
 on:
   push:
-    paths:
-      - "release/**"
     paths-ignore:
+      - "README.md"
       - "test/**"
     branches:
       - main
