@@ -71,4 +71,4 @@ COPY src .
 
 USER appuser
 
-CMD ["python3", "app/main.py"]
+CMD ["python3", "main.py"]
