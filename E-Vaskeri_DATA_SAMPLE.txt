@@ -1,0 +1,93 @@
+[RPCS]*\w*LAU\d
+
+
+<text id="R808LAU7" x="50%" y="5666" text-anchor="middle" style="font-family:'Open Sans',sans-serif;font-weight:normal;font-style:normal;font-size:2000px">31:41</text>
+	Line 2201: <text id="P808LAU7" x="50%" y="6566" text-anchor="middle" style="font-family:'Open Sans',sans-serif;font-weight:normal;font-style:normal;font-size:500px">95° Normal</text>
+	Line 2202: <text id="C808LAU7" x="50%" y="3666" text-anchor="middle" style="font-family:'Open Sans',sans-serif;font-weight:normal;font-style:normal;font-size:500px">Hovedvask</text>
+	Line 2203: <text id="F808LAU7" x="50%" y="7566" fill="#656565" text-anchor="middle" style="font-family:'Open Sans',sans-serif;font-weight:normal;font-style:normal;font-size:500px"></text>
+	Line 2204: <text id="S808LAU7" x="50%" y="8703" text-anchor="middle" fill="#E44" style="font-family:'Open Sans',sans-serif;font-weight:normal;font-style:normal;font-size:909px">OPTAGET</text>
+	Line 2205: <text id="D808LAU7" x="50%" y="9566" text-anchor="middle" fill="#127324" style="font-family:'Open Sans',sans-serif;font-weight:normal;font-style:normal;font-size:500px">
+	
+	
+	
+	((Dryer_Pro\w*)*(Washer_Pro\w*))
+	
+	
+	 document.querySelector('#G808LAU7').querySelector('#Washer_Process_Mainwash').style.visibility='visible';
+	Line 2431: var I808LAU7='Washer_Process_Mainwash';
+	Line 2468: document.querySelector('#G808LAU7').querySelector('#Washer_Process_Mainwash').style.visibility='visible';
+	Line 2469: var I808LAU7='Washer_Process_Mainwash';
+	Line 2554:  S4305.7,1515.9,4096.5,1515.9z" fill="#656565"></path><circle cx="3938" cy="1895.2" r="83.5" fill="#656565"></circle><circle cx="4255" cy="1895.2" r="83.5" fill="#656565"></circle></g></g><g id="Washer_Process_Close" style="visibility:hidden" transform="translate(0 -200)"><g transform="scale(1.220703125)"><path d="M4095.7,2213.5c-176.4,0-319.9-143.5-319.9-319.9s143.5-319.9,319.9-319.9c176.4,0,319.9,143.5,319.9,319.9
+	Line 2558:  c139.1,0,252.1-113.1,252.1-252.1S4234.7,1641.6,4095.7,1641.6z" fill="#656565"></path></g></g></g><g id="Washer_Process_Done" style="visibility:hidden" transform="translate(0 -200)"><g transform="scale(1.220703125)"><path d="M3368.6,2027.8c0,0,444.4,440.4,684.3,739.9c20.1,21.9,45.7,37,64.2,0c261.7-636.9,819.6-1308.6,1136.2-1546
+	Line 2560:  C3349.7,1984.7,3368.6,2027.8,3368.6,2027.8z" fill="#656565"></path></g></g><g id="Washer_Process_Error" style="visibility:hidden" transform="translate(0 -200)"><g transform="scale(1.220703125)"><path d="M3987.6,1429.3l-571.8,990.3c-47.7,82.6,11.9,185.7,107.2,185.7h1143.6c95.3,0,154.9-103.2,107.2-185.7
+	Line 2563:  c16.6-28.8,58.1-28.8,74.8,0l538.2,932.2C4688.2,2500,4667.4,2535.9,4634.2,2535.9z" fill="#656565"></path></g><g><path d="M4028.8,1871.2V1856h134.4v15.1l-35.5,333.6h-63.4L4028.8,1871.2z M4034.9,2263.7h122.3v120.8h-122.3V2263.7z" fill="#656565"></path></g></g></g><g id="Washer_Process_Mainwash" style="visibility:hidden" transform="translate(0 -200)"><g transform="scale(1.220703125)"><path d="M4242.9,2145v0.2c0.1-0.5,0.3-1.1,0.4-1.6C4243.2,2144,4243.1,2144.5,4242.9,2145z" fill="#656565"></path><path d="M4701.3,2424.7L4900,1367.5h-108.1l-17,87.5c-25.1,14.9-53.6-10.4-74.4-10.4
+	Line 2567:  c93.3-6.9,145.2,86.4,235,79.5c114.1,10.4,176.4-100.2,293.9-76c38.9,9.7,83.7,10.8,117.7,42.2L4620,2319z" fill="#656565"></path><rect x="3929.7" y="1644.9" width="105.7" height="536.4" fill="#656565"></rect><rect x="4157.3" y="1644.9" width="105.7" height="536.4" fill="#656565"></rect></g></g><g id="Washer_Process_Open" style="visibility: visible;" transform="translate(0 -200)"><g transform="scale(1.220703125)"><path d="M4095.7,2213.5c-176.4,0-319.9-143.5-319.9-319.9s143.5-319.9,319.9-319.9c176.4,0,319.9,143.5,319.9,319.9
+	Line 2571:  c139.1,0,252.1-113.1,252.1-252.1S4234.7,1641.6,4095.7,1641.6z" fill="#656565"></path></g></g></g><g id="Washer_Process_Prewash" style="visibility:hidden" transform="translate(0 -200)"><g transform="scale(1.220703125)"><path d="M4244.4,2145v0.2c0.1-0.5,0.3-1.1,0.4-1.6C4244.8,2144,4244.6,2144.5,4244.4,2145z" fill="#656565"></path><path d="M4702.8,2424.7l198.7-1057.2h-108.1l-17,87.5c-25.1,14.9-53.6-10.4-74.4-10.4
+	Line 2576:  L4621.5,2319z" fill="#656565"></path><rect x="4044.8" y="1644.9" width="105.7" height="536.4" fill="#656565"></rect></g></g><g id="Washer_Process_Rinse" style="visibility:hidden" transform="translate(0 -200)"><g transform="scale(1.220703125)"><path d="M4242.9,2145v0.2c0.1-0.5,0.3-1.1,0.4-1.6C4243.2,2144,4243.1,2144.5,4242.9,2145z" fill="#656565"></path><path d="M4701.3,2424.7L4900,1367.5h-108.1l-17,87.5c-25.1,14.9-53.6-10.4-74.4-10.4
+	Line 2580:  c93.3-6.9,145.2,86.4,235,79.5c114.1,10.4,176.4-100.2,293.9-76c38.9,9.7,83.7,10.8,117.7,42.2L4620,2319z" fill="#656565"></path><rect x="3827.9" y="1737.5" width="536.4" height="105.7" fill="#656565"></rect><rect x="3827.9" y="1896.1" width="536.4" height="105.7" fill="#656565"></rect><rect x="3827.9" y="2054.7" width="536.4" height="105.7" fill="#656565"></rect></g></g><g id="Washer_Process_Rinse1" style="visibility:hidden" transform="translate(0 -200)"><g transform="scale(1.220703125)"><path d="M4242.9,2145v0.2c0.1-0.5,0.3-1.1,0.4-1.6C4243.2,2144,4243.1,2144.5,4242.9,2145z" fill="#656565"></path><path d="M4701.3,2424.7L4900,1367.5h-108.1l-17,87.5c-25.1,14.9-53.6-10.4-74.4-10.4
+	Line 2584:  c93.3-6.9,145.2,86.4,235,79.5c114.1,10.4,176.4-100.2,293.9-76c38.9,9.7,83.7,10.8,117.7,42.2L4620,2319z" fill="#656565"></path><rect x="3827.9" y="1896.1" width="536.4" height="105.7" fill="#656565"></rect></g></g><g id="Washer_Process_Rinse2" style="visibility:hidden" transform="translate(0 -200)"><g transform="scale(1.220703125)"><path d="M4244.4,2145v0.2c0.1-0.5,0.3-1.1,0.4-1.6C4244.8,2144,4244.6,2144.5,4244.4,2145z" fill="#656565"></path><path d="M4702.8,2424.7l198.7-1057.2h-108.1l-17,87.5c-25.1,14.9-53.6-10.4-74.4-10.4
+	Line 2589:  L4621.5,2319z" fill="#656565"></path><rect x="3828.9" y="2000" width="536.4" height="105.7" fill="#656565"></rect><rect x="3828.9" y="1772.4" width="536.4" height="105.7" fill="#656565"></rect></g></g><g id="Washer_Process_Spin" style="visibility:hidden" transform="translate(0 -200)"><g transform="scale(1.220703125)"><path d="M4242.9,2145v0.2c0.1-0.5,0.3-1.1,0.4-1.6C4243.2,2144,4243.1,2144.5,4242.9,2145z" fill="#656565"></path><path d="M3987.5,2438.8c-33.6,0-67.5-3.6-101.2-10.8c-125.1-26.8-232.2-100.7-301.6-208.1
+	Line 2597:  c-22,102.5-82.5,190.2-170.4,247.1C4168.3,2412.5,4078.8,2438.8,3987.5,2438.8z" fill="#656565"></path></g></g><g id="Washer_Program_30--" style="visibility:hidden" transform="translate(0 -200)"><g transform="scale(1.220703125)"><path d="M4701.8,2469.7l198.7-1057.2h-108.1l-17,87.5c-25.1,14.9-53.6-10.4-74.4-10.4
+	Line 2609:  c0,53.6,43.2,96.8,96.8,96.8C4608.5,1897.2,4652.4,1854,4652.4,1800.3z" fill="#656565"></path><rect x="3571.5" y="2508.4" width="1049" height="105.7" fill="#656565"></rect><rect x="3572.1" y="2653.6" width="1049" height="105.7" fill="#656565"></rect></g></g><g id="Washer_Program_30-" style="visibility:hidden" transform="translate(0 -200)"><g transform="scale(1.220703125)"><path d="M4702.8,2423.4l198.8-1056h-108.1l-17,87.4c-25.1,14.9-53.6-10.4-74.4-10.4
+	Line 2620:  c0,53.6,43.2,96.7,96.8,96.7C4609.5,1851.6,4653.4,1808.4,4653.4,1754.9z" fill="#656565"></path><rect x="3572.5" y="2499.8" width="1049" height="105.6" fill="#656565"></rect></g></g><g id="Washer_Program_30" style="visibility:hidden" transform="translate(0 -200)"><g transform="scale(1.220703125)"><path d="M4702.3,2424.7L4901,1367.5h-108.1l-17,87.5c-25.1,14.9-53.6-10.4-74.4-10.4
+	Line 2631:  c0,53.6,43.2,96.8,96.8,96.8C4609,1852.2,4652.9,1809,4652.9,1755.4z" fill="#656565"></path></g></g><g id="Washer_Program_40-" style="visibility:hidden" transform="translate(0 -200)"><g transform="scale(1.220703125)"><path d="M4701.2,2469.6L4900,1412.5h-108.2l-16.9,87.6c-25.2,14.9-53.7-10.4-74.5-10.4
+	Line 2640:  c0,53.5,43.2,96.8,96.8,96.8C4607.9,1897.2,4651.8,1853.9,4651.8,1800.4z" fill="#656565"></path><rect x="3571.1" y="2546.2" width="1048.8" height="105.7" fill="#656565"></rect></g></g><g id="Washer_Program_40" style="visibility:hidden" transform="translate(0 -200)"><g transform="scale(1.220703125)"><path d="M4701.2,2469.6L4900,1412.5h-108.2l-17,87.7c-25.1,14.8-53.6-10.5-74.4-10.5
+	Line 2649:  c0,53.5,43.2,96.7,96.8,96.7C4607.9,1897.1,4651.8,1853.9,4651.8,1800.4z" fill="#656565"></path></g></g><g id="Washer_Program_40e" style="visibility:hidden" transform="translate(0 -200)"><g transform="scale(1.220703125)"><path d="M4243.4,2145v0.2c0.1-0.5,0.3-1.1,0.4-1.6C4243.7,2144,4243.6,2144.5,4243.4,2145z" fill="#656565"></path><path d="M3746.5,1996.6l131.3-224.9h1.5c0,16.3-2.2,98.1-2.2,224.9H3746.5z M4038.5,1996.6h-58.2v-327.4h-117.2
+	Line 2662:  4765.7,2445.2 " fill="#656565"></polygon></g></g><g id="Washer_Program_60-" style="visibility:hidden" transform="translate(0 -200)"><g transform="scale(1.220703125)"><path d="M4701.2,2423.4l198.5-1056h-108l-17,87.5c-25.1,14.8-53.6-10.5-74.4-10.5
+	Line 2673:  c0,53.5,43.2,96.7,96.7,96.7C4608,1851.6,4651.8,1808.4,4651.8,1754.9z" fill="#656565"></path><rect x="3572.2" y="2499.8" width="1047.8" height="105.6" fill="#656565"></rect></g></g><g id="Washer_Program_60" style="visibility:hidden" transform="translate(0 -200)"><g transform="scale(1.220703125)"><path d="M4701.2,2469.6L4900,1412.5h-108.2l-17,87.5c-25.2,15-53.6-10.4-74.4-10.4
+	Line 2684:  c0,53.6,43.2,96.8,96.8,96.8C4607.9,1897.1,4651.8,1853.9,4651.8,1800.3z" fill="#656565"></path></g></g><g id="Washer_Program_95" style="visibility:hidden" transform="translate(0 -200)"><g transform="scale(1.220703125)"><path d="M4701.2,2424.5l198.8-1057h-108.1l-17.1,87.6c-25.1,14.9-53.6-10.4-74.4-10.4
+	Line 2695:  c0,53.5,43.2,96.8,96.8,96.8C4607.9,1852.1,4651.8,1808.8,4651.8,1755.3z" fill="#656565"></path></g></g><g id="Washer_Program_Hand" style="visibility:hidden" transform="translate(0 -200)"><g transform="scale(1.220703125)"><path d="M4242.9,2145v0.2c0.1-0.5,0.3-1.1,0.4-1.6C4243.2,2144,4243.1,2144.5,4242.9,2145z" fill="#656565"></path><path d="M4791.9,1367.4l-17.1,87.5c-25.1,14.9-53.6-10.3-74.4-10.3c-21.3-5.3-42.2-7.4-62.8-8v55.8
+	Line 2719:  c29.9,23.7,58,30,80.8,19.9c28-7.8,52.1-27.5,67.9-55.5l320.1-934.6C4677.6,1249.9,4675.3,1236.5,4666.8,1227.1z" fill="#656565"></path></g></g><g id="Washer_Program_Spin" style="visibility:hidden" transform="translate(0 -200)"><g transform="scale(1.220703125)"><path d="M4242.9,2145v0.2c0.1-0.5,0.3-1.1,0.4-1.6C4243.2,2144,4243.1,2144.5,4242.9,2145z" fill="#656565"></path><path d="M3987.5,2438.8c-33.6,0-67.5-3.6-101.2-10.8c-125.1-26.8-232.2-100.7-301.6-208.1
+	Line 2727:  c-22,102.5-82.5,190.2-170.4,247.1C4168.3,2412.5,4078.8,2438.8,3987.5,2438.8z" fill="#656565"></path></g></g><g id="Washer_Program_Wool" style="visibility:hidden" transform="translate(0 -200)"><g transform="scale(1.220703125)"><path d="M4188.6,1621.6c-58.2,81.4-396.2,350.5-486.7,755.5c0,0-30.9-21.5-41.8-56.6c-15.3-41.4-28.8-316.7,488.1-686.9
+	Line 2747: document.querySelector('#G808LAU8').querySelector('#Washer_Process_Open').style.visibility='visible';
+	Line 2748: var I808LAU8='Washer_Process_Open';
+	
+	
+	Vaskemaskine 1 --> data-src https://back-nortec.datpro2.dk/download/unit5/A1jHioq8PRKXF1JFkNlRPT5ahDL7es1Z6GZGIkstCrxoGKsqDYZd4KfeIhfGGkxoshylzt84vvCAUyHB9mNA96OCOKQGqBwPAA/4.svg
+	Vaskemaskine 2 --> data-src https://back-nortec.datpro2.dk/download/unit5/A5jHioq8PRKXF1JFkNlRPT5ahDL7es1Z6GZGIkstCrxoGKsqDYZd4KfeIhfGGkxoshylzt84vvCAUyHB9mNAN6OCOKQGqBwPAA/4.svg
+	Vaskemaskine 3 --> data-src https://back-nortec.datpro2.dk/download/unit5/A9jHioq8PRKXF1JFkNlRPT5ahDL7es1Z6GZGIkstCrxoGKsqDYZd4KfeIhfGGkxoshylzt84vvCAUyHB9mNAd6OCOKQGqBwPAA/4.svg
+	Vaskemaskine 4 --> data-src https://back-nortec.datpro2.dk/download/unit5/AxnHioq8PRKXF1JFkNlRPT5ahDL7es1Z6GZGIkstCrxoGKsqDYZd4KfeIhfGGkxoshylzt84vvCAUyHB9mNBt6OCOKQGqBwPAA/4.svg
+	Vaskemaskine 5 --> data-src https://back-nortec.datpro2.dk/download/unit5/A1nHioq8PRKXF1JFkNlRPT5ahDL7es1Z6GZGIkstCrxoGKsqDYZd4KfeIhfGGkxoshylzt84vvCAUyHB9mNB96OCOKQGqBwPAA/4.svg
+	Vaskemaskine 6 --> data-src https://back-nortec.datpro2.dk/download/unit5/A5nHioq8PRKXF1JFkNlRPT5ahDL7es1Z6GZGIkstCrxoGKsqDYZd4KfeIhfGGkxoshylzt84vvCAUyHB9mNBN6OCOKQGqBwPAA/4.svg
+	Vaskemaskine 7 --> data-src https://back-nortec.datpro2.dk/download/unit5/A9nHioq8PRKXF1JFkNlRPT5ahDL7es1Z6GZGIkstCrxoGKsqDYZd4KfeIhfGGkxoshylzt84vvCAUyHB9mNBd6OCOKQGqBwPAA/4.svg
+	
+
+	
+	Line  254:                 <div data-loader="SVGLoader" style="z-index:20;" class="lazy" data-bind="attr:{'data-src': $root.iconUrlSVG($data.SVG,170,4), alt: $data.Text, 'aria-labelledby': 'liveUnitName' + $parents[2].Name + $index()}" data-src="https://back-nortec.datpro2.dk/download/unit5/A1jHioq8PRKXF1JFkNlRPT5ahDL7es1Z6GZGIkstCrxoGKsqDYZd4KfeIhfGGkxoshylzt84vvCAUyHB9mNA96OCOKQGqBwPAA/4.svg" alt="Vaskemaskine 1" aria-labelledby="liveUnitNameLiveL100">
+	Line  567:             <div class="truncate" data-bind="text: $data.Text, attr:{id: 'liveUnitName' +  $parents[2].Name + $index()}" id="liveUnitNameLiveL100">Vaskemaskine 1</div>
+	Line  577:                 <div data-loader="SVGLoader" style="z-index:20;" class="lazy" data-bind="attr:{'data-src': $root.iconUrlSVG($data.SVG,170,4), alt: $data.Text, 'aria-labelledby': 'liveUnitName' + $parents[2].Name + $index()}" data-src="https://back-nortec.datpro2.dk/download/unit5/A5jHioq8PRKXF1JFkNlRPT5ahDL7es1Z6GZGIkstCrxoGKsqDYZd4KfeIhfGGkxoshylzt84vvCAUyHB9mNAN6OCOKQGqBwPAA/4.svg" alt="Vaskemaskine 2" aria-labelledby="liveUnitNameLiveL101">
+	Line  890:             <div class="truncate" data-bind="text: $data.Text, attr:{id: 'liveUnitName' +  $parents[2].Name + $index()}" id="liveUnitNameLiveL101">Vaskemaskine 2</div>
+	Line  900:                 <div data-loader="SVGLoader" style="z-index:20;" class="lazy" data-bind="attr:{'data-src': $root.iconUrlSVG($data.SVG,170,4), alt: $data.Text, 'aria-labelledby': 'liveUnitName' + $parents[2].Name + $index()}" data-src="https://back-nortec.datpro2.dk/download/unit5/A9jHioq8PRKXF1JFkNlRPT5ahDL7es1Z6GZGIkstCrxoGKsqDYZd4KfeIhfGGkxoshylzt84vvCAUyHB9mNAd6OCOKQGqBwPAA/4.svg" alt="Vaskemaskine 3" aria-labelledby="liveUnitNameLiveL102">
+	Line 1213:             <div class="truncate" data-bind="text: $data.Text, attr:{id: 'liveUnitName' +  $parents[2].Name + $index()}" id="liveUnitNameLiveL102">Vaskemaskine 3</div>
+	Line 1223:                 <div data-loader="SVGLoader" style="z-index:20;" class="lazy" data-bind="attr:{'data-src': $root.iconUrlSVG($data.SVG,170,4), alt: $data.Text, 'aria-labelledby': 'liveUnitName' + $parents[2].Name + $index()}" data-src="https://back-nortec.datpro2.dk/download/unit5/AxnHioq8PRKXF1JFkNlRPT5ahDL7es1Z6GZGIkstCrxoGKsqDYZd4KfeIhfGGkxoshylzt84vvCAUyHB9mNBt6OCOKQGqBwPAA/4.svg" alt="Vaskemaskine 4" aria-labelledby="liveUnitNameLiveL103">
+	Line 1536:             <div class="truncate" data-bind="text: $data.Text, attr:{id: 'liveUnitName' +  $parents[2].Name + $index()}" id="liveUnitNameLiveL103">Vaskemaskine 4</div>
+	Line 1546:                 <div data-loader="SVGLoader" style="z-index:20;" class="lazy" data-bind="attr:{'data-src': $root.iconUrlSVG($data.SVG,170,4), alt: $data.Text, 'aria-labelledby': 'liveUnitName' + $parents[2].Name + $index()}" data-src="https://back-nortec.datpro2.dk/download/unit5/A1nHioq8PRKXF1JFkNlRPT5ahDL7es1Z6GZGIkstCrxoGKsqDYZd4KfeIhfGGkxoshylzt84vvCAUyHB9mNB96OCOKQGqBwPAA/4.svg" alt="Vaskemaskine 5" aria-labelledby="liveUnitNameLiveL104">
+	Line 1859:             <div class="truncate" data-bind="text: $data.Text, attr:{id: 'liveUnitName' +  $parents[2].Name + $index()}" id="liveUnitNameLiveL104">Vaskemaskine 5</div>
+	Line 1869:                 <div data-loader="SVGLoader" style="z-index:20;" class="lazy" data-bind="attr:{'data-src': $root.iconUrlSVG($data.SVG,170,4), alt: $data.Text, 'aria-labelledby': 'liveUnitName' + $parents[2].Name + $index()}" data-src="https://back-nortec.datpro2.dk/download/unit5/A5nHioq8PRKXF1JFkNlRPT5ahDL7es1Z6GZGIkstCrxoGKsqDYZd4KfeIhfGGkxoshylzt84vvCAUyHB9mNBN6OCOKQGqBwPAA/4.svg" alt="Vaskemaskine 6" aria-labelledby="liveUnitNameLiveL105">
+	Line 2182:             <div class="truncate" data-bind="text: $data.Text, attr:{id: 'liveUnitName' +  $parents[2].Name + $index()}" id="liveUnitNameLiveL105">Vaskemaskine 6</div>
+	Line 2196:             <div class="truncate" data-bind="text: $data.Text, attr:{id: 'liveUnitName' +  $parents[2].Name + $index()}" id="liveUnitNameLiveL106">Vaskemaskine 7</div>
+	Line 2198:             <div data-loader="SVGLoader" style="z-index:20;" class="lazy" data-bind="attr:{'data-src': $root.iconUrlSVG($data.SVG,170,4), alt: $data.Text, 'aria-labelledby': 'liveUnitName' + $parents[2].Name + $index()}" data-src="https://back-nortec.datpro2.dk/download/unit5/A9nHioq8PRKXF1JFkNlRPT5ahDL7es1Z6GZGIkstCrxoGKsqDYZd4KfeIhfGGkxoshylzt84vvCAUyHB9mNBd6OCOKQGqBwPAA/4.svg" alt="Vaskemaskine 7" aria-labelledby="liveUnitNameLiveL106">
+	Line 2515:                 <div data-loader="SVGLoader" style="z-index:20;" class="lazy" data-bind="attr:{'data-src': $root.iconUrlSVG($data.SVG,170,4), alt: $data.Text, 'aria-labelledby': 'liveUnitName' + $parents[2].Name + $index()}" data-src="https://back-nortec.datpro2.dk/download/unit5/AxrHioq8PRKXF1JFkNlRPT5ahDL7es1Z6GZGIkstCrxoGKsqDYZd4KfeIhfGGkxoshylzt84vvCAUyHB9mNCt6OCOKQGqBwPAA/4.svg" alt="Vaskemaskine 8" aria-labelledby="liveUnitNameLiveL107">
+	Line 2828:             <div class="truncate" data-bind="text: $data.Text, attr:{id: 'liveUnitName' +  $parents[2].Name + $index()}" id="liveUnitNameLiveL107">Vaskemaskine 8</div>
+
+
+
+
+-------------------------- All requests are GET ------------------------------------------
+LOGIN  --> Update tics with current EPOC to get a session token
+
+https://back-nortec.datpro2.dk/User/Login4/?App=TUK&session=&username=fclante%40gmail.com&password=REPLACE_ME!&language=da&guid=&tick=1724791285182&domain=https%3A%2F%2Fe-vaskeri.dk&native=false&.json
+
+
+
+------------- For the following requests -----------------------------------------
+Replace the session token in the URL and update the tick wuth current EPOC 
+
+Running Machines
+
+https://back-nortec.datpro2.dk/Location/Live5/?App=TUK&session=Q9cz4O3EXH75jG-4qG3ohSSuf00QlGGHtGTQJG_yaSH7aQ2FrwD-vw73sw4Bb43Byw1tMYv8AlcfSGC-7-h7zS6N_743Z43P20BuYZIWUf7TewK-xwQ7F6V99cP&tick=1724791598634&native=false&.json
+
+
+Balance
+
+https://back-nortec.datpro2.dk/User/Statement5/?App=TUK&session=Q1r9v-M2qUDwYb_vabMVWW1JobPMsb8L3bFtkR7nLXA-Wg851g0vVgQ2ThSEAg8s0LdnCLHwGLTcQXpa5hFfHeDuVzA7UgJUDyFF0uMwBuLD-uP_7uOB6uF0Hu34jC4ysFoX4goy4goocu91119&tick=1724792100445&native=false&.json

@@ -1,0 +1,12 @@
+{
+  "name": "evaskeri-api",
+  "image": "python:3.12",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "ms-toolsai.jupyter"
+      ]
+    } 
+  }
+}
