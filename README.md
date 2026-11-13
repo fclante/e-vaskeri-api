@@ -23,7 +23,20 @@ This endpoint returns the balance of the user.
 
 ---
 
+## Development
+
+Dependencies are managed with [uv](https://docs.astral.sh/uv/).
+
+```sh
+uv sync                                   # create .venv and install locked dependencies
+uv run gunicorn --chdir src main:app -c gunicorn.conf.py   # run the API
+uv add <package>                          # add a dependency (updates pyproject.toml and uv.lock)
+uv lock --upgrade                         # upgrade locked versions
+```
+
 ## Configuation 
 
-Set a secret on the repository used for the API. The secret should be named `E_VASKERI_PASSWORD` and contain the password for your user on the E-Vaskeri API.
-Set a secret on the repository used for the API. The secret should be named `E_VASKERI_USERNAME` and contain the username for your user on the E-Vaskeri API.
+pass 2 environment variables: `E_VASKERI_USERNAME` and `E_VASKERI_PASSWORD` when starting the container or running the API.
+`E_VASKERI_USERNAME` should contain the username for your user on the E-Vaskeri API.
+`E_VASKERI_PASSWORD` should contain the password for your user on the E-Vaskeri API.
+
