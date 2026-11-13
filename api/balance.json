@@ -1,0 +1,2889 @@
+{
+  "Cover": "image1/backdrop/girl5",
+  "Currency": "DKK",
+  "Rate": 0,
+  "Receipts": [
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1800,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, Color, Very, Rinse",
+          "Time": "10:36",
+          "Unit": "Washer 1",
+          "UnitId": 1
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 2, Prewash, Mild, 40\u00b0C, Color, Very, Rinse",
+          "Time": "10:36",
+          "Unit": "Washer 6",
+          "UnitId": 6
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 1, Prewash, Mild, 30\u00b0C, Color, Very, Rinse",
+          "Time": "10:37",
+          "Unit": "Washer 7",
+          "UnitId": 7
+        },
+        {
+          "Amount": 2640,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 14, ExtraT\u00f8rt, 55\u00b0C, 44 minutes",
+          "Time": "12:11",
+          "Unit": "Dryer 11",
+          "UnitId": 11
+        },
+        {
+          "Amount": 3600,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 15, ExtraT\u00f8rt, 70\u00b0C, 60 minutes",
+          "Time": "12:47",
+          "Unit": "Dryer 10",
+          "UnitId": 10
+        },
+        {
+          "Amount": 600,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 15, ExtraT\u00f8rt, 70\u00b0C, 10 minutes",
+          "Time": "12:59",
+          "Unit": "Dryer 11",
+          "UnitId": 11
+        }
+      ],
+      "LinesTotal": 11640,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -11640,
+      "Title": "Fredag 6.  november 2026"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "DKK"
+      ],
+      "LinesTotal": 0,
+      "LocationId": 0,
+      "Payments": [
+        {
+          "Amount": -10980,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Overf\u00f8rt til husleje",
+          "Time": "16:20",
+          "Unit": "",
+          "UnitId": 0
+        }
+      ],
+      "PaymentsTotal": -10980,
+      "Saldo": 0,
+      "Title": "Tirsdag 13.  oktober 2026"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1800,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, Color, Very, Rinse",
+          "Time": "14:16",
+          "Unit": "Washer 1",
+          "UnitId": 1
+        },
+        {
+          "Amount": 1800,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 2, Prewash, Mild, 40\u00b0C, Color, Very, Rinse",
+          "Time": "14:17",
+          "Unit": "Washer 5",
+          "UnitId": 5
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, Color, Very, Rinse",
+          "Time": "14:17",
+          "Unit": "Washer 6",
+          "UnitId": 6
+        },
+        {
+          "Amount": 2760,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 15, ExtraT\u00f8rt, 70\u00b0C, 46 minutes",
+          "Time": "16:12",
+          "Unit": "Dryer 10",
+          "UnitId": 10
+        },
+        {
+          "Amount": 3120,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 15, ExtraT\u00f8rt, 70\u00b0C, 52 minutes",
+          "Time": "16:20",
+          "Unit": "Dryer 11",
+          "UnitId": 11
+        }
+      ],
+      "LinesTotal": 10980,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -10980,
+      "Title": "Tirsdag 13.  oktober 2026"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "DKK"
+      ],
+      "LinesTotal": 0,
+      "LocationId": 0,
+      "Payments": [
+        {
+          "Amount": -22440,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Overf\u00f8rt til husleje",
+          "Time": "13:11",
+          "Unit": "",
+          "UnitId": 0
+        }
+      ],
+      "PaymentsTotal": -22440,
+      "Saldo": 0,
+      "Title": "Tirsdag 29.  september 2026"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1800,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, Color, Very, Rinse",
+          "Time": "11:28",
+          "Unit": "Washer 1",
+          "UnitId": 1
+        },
+        {
+          "Amount": 1800,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 4, Prewash, Normal, 40\u00b0C, Color, Very, Rinse",
+          "Time": "11:28",
+          "Unit": "Washer 5",
+          "UnitId": 5
+        },
+        {
+          "Amount": 1920,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 14, ExtraT\u00f8rt, 55\u00b0C, 32 minutes",
+          "Time": "13:11",
+          "Unit": "Dryer 10",
+          "UnitId": 10
+        },
+        {
+          "Amount": 1980,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 14, ExtraT\u00f8rt, 55\u00b0C, 33 minutes",
+          "Time": "13:11",
+          "Unit": "Dryer 11",
+          "UnitId": 11
+        }
+      ],
+      "LinesTotal": 7500,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -22440,
+      "Title": "Tirsdag 29.  september 2026"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1800,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, Color, Very, Rinse",
+          "Time": "13:47",
+          "Unit": "Washer 1",
+          "UnitId": 1
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 1, Prewash, Mild, 30\u00b0C, Color, Very, Rinse",
+          "Time": "13:47",
+          "Unit": "Washer 2",
+          "UnitId": 2
+        },
+        {
+          "Amount": 1920,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 14, ExtraT\u00f8rt, 55\u00b0C, 32 minutes",
+          "Time": "15:27",
+          "Unit": "Dryer 11",
+          "UnitId": 11
+        },
+        {
+          "Amount": 1980,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 14, ExtraT\u00f8rt, 55\u00b0C, 33 minutes",
+          "Time": "15:30",
+          "Unit": "Dryer 10",
+          "UnitId": 10
+        }
+      ],
+      "LinesTotal": 7200,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -14940,
+      "Title": "Onsdag 16.  september 2026"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1800,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, Color, Very, Rinse",
+          "Time": "10:24",
+          "Unit": "Washer 1",
+          "UnitId": 1
+        },
+        {
+          "Amount": 1800,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 1, Prewash, Mild, 30\u00b0C, Color, Very, Rinse",
+          "Time": "10:25",
+          "Unit": "Washer 5",
+          "UnitId": 5
+        },
+        {
+          "Amount": 2160,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 14, ExtraT\u00f8rt, 55\u00b0C, 36 minutes",
+          "Time": "12:02",
+          "Unit": "Dryer 11",
+          "UnitId": 11
+        },
+        {
+          "Amount": 1980,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 14, ExtraT\u00f8rt, 55\u00b0C, 33 minutes",
+          "Time": "12:08",
+          "Unit": "Dryer 10",
+          "UnitId": 10
+        }
+      ],
+      "LinesTotal": 7740,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -7740,
+      "Title": "Fredag 4.  september 2026"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "DKK"
+      ],
+      "LinesTotal": 0,
+      "LocationId": 0,
+      "Payments": [
+        {
+          "Amount": -18000,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Overf\u00f8rt til husleje",
+          "Time": "12:48",
+          "Unit": "",
+          "UnitId": 0
+        }
+      ],
+      "PaymentsTotal": -18000,
+      "Saldo": 0,
+      "Title": "Fredag 28.  august 2026"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 4, Prewash, Normal, 40\u00b0C, Color, Very, Rinse",
+          "Time": "10:56",
+          "Unit": "Washer 2",
+          "UnitId": 2
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, Color, Very, Rinse",
+          "Time": "10:56",
+          "Unit": "Washer 3",
+          "UnitId": 3
+        },
+        {
+          "Amount": 2340,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 14, ExtraT\u00f8rt, 55\u00b0C, 39 minutes",
+          "Time": "12:48",
+          "Unit": "Dryer 10",
+          "UnitId": 10
+        }
+      ],
+      "LinesTotal": 5340,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -18000,
+      "Title": "Fredag 28.  august 2026"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1800,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, Color, Very, Rinse",
+          "Time": "08:42",
+          "Unit": "Washer 1",
+          "UnitId": 1
+        },
+        {
+          "Amount": 1800,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 1, Prewash, Mild, 30\u00b0C, Color, Very, Rinse",
+          "Time": "08:42",
+          "Unit": "Washer 5",
+          "UnitId": 5
+        },
+        {
+          "Amount": 2160,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 14, ExtraT\u00f8rt, 55\u00b0C, 36 minutes",
+          "Time": "10:33",
+          "Unit": "Dryer 10",
+          "UnitId": 10
+        },
+        {
+          "Amount": 3600,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 14, ExtraT\u00f8rt, 55\u00b0C, 60 minutes",
+          "Time": "10:56",
+          "Unit": "Dryer 9",
+          "UnitId": 9
+        }
+      ],
+      "LinesTotal": 9360,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -12660,
+      "Title": "Tirsdag 18.  august 2026"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1800,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, Color, Very, Rinse",
+          "Time": "11:28",
+          "Unit": "Washer 5",
+          "UnitId": 5
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 4, Prewash, Normal, 40\u00b0C, Color, Very, Rinse",
+          "Time": "11:29",
+          "Unit": "Washer 6",
+          "UnitId": 6
+        }
+      ],
+      "LinesTotal": 3300,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -3300,
+      "Title": "Torsdag 6.  august 2026"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "DKK"
+      ],
+      "LinesTotal": 0,
+      "LocationId": 0,
+      "Payments": [
+        {
+          "Amount": -7800,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Overf\u00f8rt til husleje",
+          "Time": "15:15",
+          "Unit": "",
+          "UnitId": 0
+        }
+      ],
+      "PaymentsTotal": -7800,
+      "Saldo": 0,
+      "Title": "Mandag 20.  juli 2026"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1800,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, Color, Very, Rinse",
+          "Time": "15:15",
+          "Unit": "Washer 1",
+          "UnitId": 1
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 4, Prewash, Normal, 40\u00b0C, Color, Very, Rinse",
+          "Time": "15:15",
+          "Unit": "Washer 7",
+          "UnitId": 7
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, White, Very, Rinse",
+          "Time": "15:15",
+          "Unit": "Washer 8",
+          "UnitId": 8
+        }
+      ],
+      "LinesTotal": 4800,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -7800,
+      "Title": "Mandag 20.  juli 2026"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 4, Prewash, Normal, 40\u00b0C, Color, Very, Rinse",
+          "Time": "11:37",
+          "Unit": "Washer 4",
+          "UnitId": 4
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, Color, Very, Rinse",
+          "Time": "11:38",
+          "Unit": "Washer 7",
+          "UnitId": 7
+        }
+      ],
+      "LinesTotal": 3000,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -3000,
+      "Title": "S\u00f8ndag 12.  juli 2026"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "DKK"
+      ],
+      "LinesTotal": 0,
+      "LocationId": 0,
+      "Payments": [
+        {
+          "Amount": -17340,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Overf\u00f8rt til husleje",
+          "Time": "14:29",
+          "Unit": "",
+          "UnitId": 0
+        }
+      ],
+      "PaymentsTotal": -17340,
+      "Saldo": 0,
+      "Title": "Tirsdag 30.  juni 2026"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, Color, Very, Rinse",
+          "Time": "11:19",
+          "Unit": "Washer 3",
+          "UnitId": 3
+        },
+        {
+          "Amount": 1800,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 1, Prewash, Mild, 30\u00b0C, Color, Very, Rinse",
+          "Time": "11:20",
+          "Unit": "Washer 5",
+          "UnitId": 5
+        },
+        {
+          "Amount": 3600,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 14, ExtraT\u00f8rt, 55\u00b0C, 60 minutes",
+          "Time": "13:53",
+          "Unit": "Dryer 11",
+          "UnitId": 11
+        },
+        {
+          "Amount": 1200,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 14, ExtraT\u00f8rt, 55\u00b0C, 20 minutes",
+          "Time": "14:20",
+          "Unit": "Dryer 10",
+          "UnitId": 10
+        },
+        {
+          "Amount": 1740,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 14, ExtraT\u00f8rt, 55\u00b0C, 29 minutes",
+          "Time": "14:29",
+          "Unit": "Dryer 11",
+          "UnitId": 11
+        }
+      ],
+      "LinesTotal": 9840,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -17340,
+      "Title": "Tirsdag 30.  juni 2026"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, White, Very, Rinse",
+          "Time": "10:25",
+          "Unit": "Washer 2",
+          "UnitId": 2
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 1, Prewash, Mild, 30\u00b0C, Color, Very, Rinse",
+          "Time": "10:25",
+          "Unit": "Washer 3",
+          "UnitId": 3
+        }
+      ],
+      "LinesTotal": 3000,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -7500,
+      "Title": "Fredag 12.  juni 2026"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 4, Prewash, Normal, 40\u00b0C, Color, Very, Rinse",
+          "Time": "08:20",
+          "Unit": "Washer 2",
+          "UnitId": 2
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, Color, Very, Rinse",
+          "Time": "08:20",
+          "Unit": "Washer 3",
+          "UnitId": 3
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 1, Prewash, Mild, 30\u00b0C, Color, Very, Rinse",
+          "Time": "08:20",
+          "Unit": "Washer 4",
+          "UnitId": 4
+        }
+      ],
+      "LinesTotal": 4500,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -4500,
+      "Title": "Mandag 1.  juni 2026"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "DKK"
+      ],
+      "LinesTotal": 0,
+      "LocationId": 0,
+      "Payments": [
+        {
+          "Amount": -8880,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Overf\u00f8rt til husleje",
+          "Time": "14:20",
+          "Unit": "",
+          "UnitId": 0
+        }
+      ],
+      "PaymentsTotal": -8880,
+      "Saldo": 0,
+      "Title": "Onsdag 13.  maj 2026"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, Color, Very, Rinse",
+          "Time": "12:09",
+          "Unit": "Washer 2",
+          "UnitId": 2
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 1, Prewash, Mild, 30\u00b0C, Color, Very, Rinse",
+          "Time": "12:09",
+          "Unit": "Washer 3",
+          "UnitId": 3
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 4, Prewash, Normal, 40\u00b0C, Color, Very, Rinse",
+          "Time": "12:09",
+          "Unit": "Washer 4",
+          "UnitId": 4
+        },
+        {
+          "Amount": 2100,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 14, ExtraT\u00f8rt, 55\u00b0C, 35 minutes",
+          "Time": "13:55",
+          "Unit": "Dryer 10",
+          "UnitId": 10
+        },
+        {
+          "Amount": 2280,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 15, ExtraT\u00f8rt, 70\u00b0C, 38 minutes",
+          "Time": "14:20",
+          "Unit": "Dryer 9",
+          "UnitId": 9
+        }
+      ],
+      "LinesTotal": 8880,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -8880,
+      "Title": "Onsdag 13.  maj 2026"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "DKK"
+      ],
+      "LinesTotal": 0,
+      "LocationId": 0,
+      "Payments": [
+        {
+          "Amount": -16020,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Overf\u00f8rt til husleje",
+          "Time": "14:16",
+          "Unit": "",
+          "UnitId": 0
+        }
+      ],
+      "PaymentsTotal": -16020,
+      "Saldo": 0,
+      "Title": "Onsdag 29.  april 2026"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, Color, Very, Rinse",
+          "Time": "14:16",
+          "Unit": "Washer 3",
+          "UnitId": 3
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 1, Prewash, Mild, 30\u00b0C, Color, Very, Rinse",
+          "Time": "14:16",
+          "Unit": "Washer 4",
+          "UnitId": 4
+        }
+      ],
+      "LinesTotal": 3000,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -16020,
+      "Title": "Onsdag 29.  april 2026"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, Color, Very, Rinse",
+          "Time": "12:27",
+          "Unit": "Washer 4",
+          "UnitId": 4
+        },
+        {
+          "Amount": 1800,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 1, Prewash, Mild, 30\u00b0C, Color, Very, Rinse",
+          "Time": "12:42",
+          "Unit": "Washer 5",
+          "UnitId": 5
+        }
+      ],
+      "LinesTotal": 3300,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -13020,
+      "Title": "S\u00f8ndag 19.  april 2026"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 4, Normal, 40\u00b0C, Color, Very, Rinse",
+          "Time": "17:04",
+          "Unit": "Washer 2",
+          "UnitId": 2
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, Color, Very, Rinse",
+          "Time": "17:04",
+          "Unit": "Washer 3",
+          "UnitId": 3
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, Color, Very, Rinse",
+          "Time": "17:04",
+          "Unit": "Washer 4",
+          "UnitId": 4
+        },
+        {
+          "Amount": 1740,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 14, ExtraT\u00f8rt, 55\u00b0C, 29 minutes",
+          "Time": "18:34",
+          "Unit": "Dryer 10",
+          "UnitId": 10
+        },
+        {
+          "Amount": 3480,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 14, ExtraT\u00f8rt, 55\u00b0C, 58 minutes",
+          "Time": "19:13",
+          "Unit": "Dryer 11",
+          "UnitId": 11
+        }
+      ],
+      "LinesTotal": 9720,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -9720,
+      "Title": "Langfredag 3.  april 2026"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "DKK"
+      ],
+      "LinesTotal": 0,
+      "LocationId": 0,
+      "Payments": [
+        {
+          "Amount": -11640,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Overf\u00f8rt til husleje",
+          "Time": "14:01",
+          "Unit": "",
+          "UnitId": 0
+        }
+      ],
+      "PaymentsTotal": -11640,
+      "Saldo": 0,
+      "Title": "Fredag 20.  marts 2026"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, Color, Very, Rinse",
+          "Time": "11:11",
+          "Unit": "Washer 2",
+          "UnitId": 2
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 4, Prewash, Normal, 40\u00b0C, Color, Very, Rinse",
+          "Time": "11:11",
+          "Unit": "Washer 3",
+          "UnitId": 3
+        },
+        {
+          "Amount": 2520,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 14, ExtraT\u00f8rt, 55\u00b0C, 42 minutes",
+          "Time": "14:01",
+          "Unit": "Dryer 10",
+          "UnitId": 10
+        }
+      ],
+      "LinesTotal": 5520,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -11640,
+      "Title": "Fredag 20.  marts 2026"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, White, Very, Rinse",
+          "Time": "14:15",
+          "Unit": "Washer 6",
+          "UnitId": 6
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 1, Prewash, Mild, 30\u00b0C, Color, Very, Rinse",
+          "Time": "14:15",
+          "Unit": "Washer 8",
+          "UnitId": 8
+        },
+        {
+          "Amount": 3120,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 14, ExtraT\u00f8rt, 55\u00b0C, 52 minutes",
+          "Time": "18:50",
+          "Unit": "Dryer 11",
+          "UnitId": 11
+        }
+      ],
+      "LinesTotal": 6120,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -6120,
+      "Title": "Fredag 6.  marts 2026"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "DKK"
+      ],
+      "LinesTotal": 0,
+      "LocationId": 0,
+      "Payments": [
+        {
+          "Amount": -12780,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Overf\u00f8rt til husleje",
+          "Time": "16:54",
+          "Unit": "",
+          "UnitId": 0
+        }
+      ],
+      "PaymentsTotal": -12780,
+      "Saldo": 0,
+      "Title": "Onsdag 18.  februar 2026"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, White, Very, Rinse",
+          "Time": "13:25",
+          "Unit": "Washer 3",
+          "UnitId": 3
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 1, Prewash, Mild, 30\u00b0C, Color, Very, Rinse",
+          "Time": "13:25",
+          "Unit": "Washer 4",
+          "UnitId": 4
+        },
+        {
+          "Amount": 2880,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 14, ExtraT\u00f8rt, 55\u00b0C, 48 minutes",
+          "Time": "16:54",
+          "Unit": "Dryer 11",
+          "UnitId": 11
+        }
+      ],
+      "LinesTotal": 5880,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -12780,
+      "Title": "Onsdag 18.  februar 2026"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1800,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, Color, Very, Rinse",
+          "Time": "13:47",
+          "Unit": "Washer 1",
+          "UnitId": 1
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 1, Prewash, Mild, 30\u00b0C, Color, Very, Rinse",
+          "Time": "13:47",
+          "Unit": "Washer 2",
+          "UnitId": 2
+        },
+        {
+          "Amount": 3600,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 14, ExtraT\u00f8rt, 55\u00b0C, 60 minutes",
+          "Time": "15:57",
+          "Unit": "Dryer 11",
+          "UnitId": 11
+        }
+      ],
+      "LinesTotal": 6900,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -6900,
+      "Title": "Fredag 6.  februar 2026"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "DKK"
+      ],
+      "LinesTotal": 0,
+      "LocationId": 0,
+      "Payments": [
+        {
+          "Amount": -15420,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Overf\u00f8rt til husleje",
+          "Time": "12:08",
+          "Unit": "",
+          "UnitId": 0
+        }
+      ],
+      "PaymentsTotal": -15420,
+      "Saldo": 0,
+      "Title": "Fredag 23.  januar 2026"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1800,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 1, Prewash, Mild, 30\u00b0C, Color, Very, Rinse",
+          "Time": "10:14",
+          "Unit": "Washer 1",
+          "UnitId": 1
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, Color, Very, Rinse",
+          "Time": "10:14",
+          "Unit": "Washer 3",
+          "UnitId": 3
+        },
+        {
+          "Amount": 2940,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 14, ExtraT\u00f8rt, 55\u00b0C, 49 minutes",
+          "Time": "12:08",
+          "Unit": "Dryer 10",
+          "UnitId": 10
+        }
+      ],
+      "LinesTotal": 6240,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -15420,
+      "Title": "Fredag 23.  januar 2026"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, Color, Very, Rinse",
+          "Time": "12:51",
+          "Unit": "Washer 8",
+          "UnitId": 8
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 1, Prewash, Mild, 30\u00b0C, Color, Very, Rinse",
+          "Time": "12:51",
+          "Unit": "Washer 3",
+          "UnitId": 3
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, Color, Very, Rinse",
+          "Time": "12:52",
+          "Unit": "Washer 4",
+          "UnitId": 4
+        },
+        {
+          "Amount": 2400,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 14, ExtraT\u00f8rt, 55\u00b0C, 40 minutes",
+          "Time": "14:28",
+          "Unit": "Dryer 11",
+          "UnitId": 11
+        },
+        {
+          "Amount": 2280,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 14, ExtraT\u00f8rt, 55\u00b0C, 38 minutes",
+          "Time": "14:40",
+          "Unit": "Dryer 10",
+          "UnitId": 10
+        }
+      ],
+      "LinesTotal": 9180,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -9180,
+      "Title": "Fredag 9.  januar 2026"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "DKK"
+      ],
+      "LinesTotal": 0,
+      "LocationId": 0,
+      "Payments": [
+        {
+          "Amount": -13920,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Overf\u00f8rt til husleje",
+          "Time": "13:00",
+          "Unit": "",
+          "UnitId": 0
+        }
+      ],
+      "PaymentsTotal": -13920,
+      "Saldo": 0,
+      "Title": "S\u00f8ndag 21.  december 2025"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1800,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 1, Prewash, Mild, 30\u00b0C, Color, Very, Rinse",
+          "Time": "11:16",
+          "Unit": "Washer 1",
+          "UnitId": 1
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, Color, Very, Rinse",
+          "Time": "11:17",
+          "Unit": "Washer 3",
+          "UnitId": 3
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 1, Prewash, Mild, 30\u00b0C, Color, Very, Rinse",
+          "Time": "11:17",
+          "Unit": "Washer 8",
+          "UnitId": 8
+        },
+        {
+          "Amount": 2880,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 14, ExtraT\u00f8rt, 55\u00b0C, 48 minutes",
+          "Time": "13:00",
+          "Unit": "Dryer 11",
+          "UnitId": 11
+        }
+      ],
+      "LinesTotal": 7680,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -13920,
+      "Title": "S\u00f8ndag 21.  december 2025"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1800,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, Color, Very, Rinse",
+          "Time": "17:34",
+          "Unit": "Washer 1",
+          "UnitId": 1
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 1, Prewash, Mild, 30\u00b0C, Color, Very, Rinse",
+          "Time": "17:35",
+          "Unit": "Washer 8",
+          "UnitId": 8
+        },
+        {
+          "Amount": 2940,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 15, ExtraT\u00f8rt, 70\u00b0C, 49 minutes",
+          "Time": "19:36",
+          "Unit": "Dryer 10",
+          "UnitId": 10
+        }
+      ],
+      "LinesTotal": 6240,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -6240,
+      "Title": "L\u00f8rdag 6.  december 2025"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "DKK"
+      ],
+      "LinesTotal": 0,
+      "LocationId": 0,
+      "Payments": [
+        {
+          "Amount": -15720,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Overf\u00f8rt til husleje",
+          "Time": "20:12",
+          "Unit": "",
+          "UnitId": 0
+        }
+      ],
+      "PaymentsTotal": -15720,
+      "Saldo": 0,
+      "Title": "L\u00f8rdag 29.  november 2025"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1800,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 1, Prewash, Mild, 30\u00b0C, Color, Very, Rinse",
+          "Time": "18:28",
+          "Unit": "Washer 1",
+          "UnitId": 1
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, Color, Very, Rinse",
+          "Time": "18:28",
+          "Unit": "Washer 2",
+          "UnitId": 2
+        },
+        {
+          "Amount": 2880,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 15, ExtraT\u00f8rt, 70\u00b0C, 48 minutes",
+          "Time": "20:12",
+          "Unit": "Dryer 11",
+          "UnitId": 11
+        }
+      ],
+      "LinesTotal": 6180,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -15720,
+      "Title": "L\u00f8rdag 29.  november 2025"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1260,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 13, ExtraT\u00f8rt, 40\u00b0C, 21 minutes",
+          "Time": "17:02",
+          "Unit": "Dryer 10",
+          "UnitId": 10
+        }
+      ],
+      "LinesTotal": 1260,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -9540,
+      "Title": "Mandag 17.  november 2025"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1800,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 4, Prewash, Normal, 40\u00b0C, White, Very, Rinse",
+          "Time": "16:47",
+          "Unit": "Washer 1",
+          "UnitId": 1
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 8, Prewash, Wool, 30\u00b0C, Wool, Very, Rinse",
+          "Time": "16:47",
+          "Unit": "Washer 2",
+          "UnitId": 2
+        }
+      ],
+      "LinesTotal": 3300,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -8280,
+      "Title": "S\u00f8ndag 16.  november 2025"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, Color, Very, Rinse",
+          "Time": "12:45",
+          "Unit": "Washer 2",
+          "UnitId": 2
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 4, Prewash, Normal, 40\u00b0C, Color, Very, Rinse",
+          "Time": "12:45",
+          "Unit": "Washer 3",
+          "UnitId": 3
+        },
+        {
+          "Amount": 1980,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 14, ExtraT\u00f8rt, 55\u00b0C, 33 minutes",
+          "Time": "14:31",
+          "Unit": "Dryer 11",
+          "UnitId": 11
+        }
+      ],
+      "LinesTotal": 4980,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -4980,
+      "Title": "Onsdag 12.  november 2025"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "DKK"
+      ],
+      "LinesTotal": 0,
+      "LocationId": 0,
+      "Payments": [
+        {
+          "Amount": -18120,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Overf\u00f8rt til husleje",
+          "Time": "13:30",
+          "Unit": "",
+          "UnitId": 0
+        }
+      ],
+      "PaymentsTotal": -18120,
+      "Saldo": 0,
+      "Title": "Torsdag 30.  oktober 2025"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1800,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, White, Very, Rinse",
+          "Time": "11:45",
+          "Unit": "Washer 1",
+          "UnitId": 1
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 1, Prewash, Mild, 30\u00b0C, Color, Very, Rinse",
+          "Time": "11:45",
+          "Unit": "Washer 2",
+          "UnitId": 2
+        },
+        {
+          "Amount": 2040,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 10, Skabst\u00f8rt, 55\u00b0C, 34 minutes",
+          "Time": "13:30",
+          "Unit": "Dryer 11",
+          "UnitId": 11
+        }
+      ],
+      "LinesTotal": 5340,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -18120,
+      "Title": "Torsdag 30.  oktober 2025"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1800,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 2, Prewash, Mild, 40\u00b0C, Color, Very, Rinse",
+          "Time": "17:56",
+          "Unit": "Washer 1",
+          "UnitId": 1
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, Color, Very, Rinse",
+          "Time": "17:56",
+          "Unit": "Washer 2",
+          "UnitId": 2
+        },
+        {
+          "Amount": 2520,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 14, ExtraT\u00f8rt, 55\u00b0C, 42 minutes",
+          "Time": "19:51",
+          "Unit": "Dryer 11",
+          "UnitId": 11
+        }
+      ],
+      "LinesTotal": 5820,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -12780,
+      "Title": "Fredag 17.  oktober 2025"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1800,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, Color, Very, Rinse",
+          "Time": "18:34",
+          "Unit": "Washer 5",
+          "UnitId": 5
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 1, Prewash, Mild, 30\u00b0C, Color, Very, Rinse",
+          "Time": "18:34",
+          "Unit": "Washer 6",
+          "UnitId": 6
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 4, Prewash, Normal, 40\u00b0C, Color, Very, Rinse",
+          "Time": "18:35",
+          "Unit": "Washer 7",
+          "UnitId": 7
+        },
+        {
+          "Amount": 2160,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 14, ExtraT\u00f8rt, 55\u00b0C, 36 minutes",
+          "Time": "20:09",
+          "Unit": "Dryer 11",
+          "UnitId": 11
+        }
+      ],
+      "LinesTotal": 6960,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -6960,
+      "Title": "S\u00f8ndag 5.  oktober 2025"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "DKK"
+      ],
+      "LinesTotal": 0,
+      "LocationId": 0,
+      "Payments": [
+        {
+          "Amount": -8520,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Overf\u00f8rt til husleje",
+          "Time": "19:39",
+          "Unit": "",
+          "UnitId": 0
+        }
+      ],
+      "PaymentsTotal": -8520,
+      "Saldo": 0,
+      "Title": "S\u00f8ndag 21.  september 2025"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1800,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, Color, Very, Rinse",
+          "Time": "18:21",
+          "Unit": "Washer 1",
+          "UnitId": 1
+        },
+        {
+          "Amount": 1800,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 2, Prewash, Mild, 40\u00b0C, Color, Very, Rinse",
+          "Time": "18:21",
+          "Unit": "Washer 5",
+          "UnitId": 5
+        },
+        {
+          "Amount": 1620,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 14, ExtraT\u00f8rt, 55\u00b0C, 27 minutes",
+          "Time": "19:39",
+          "Unit": "Dryer 10",
+          "UnitId": 10
+        }
+      ],
+      "LinesTotal": 5220,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -8520,
+      "Title": "S\u00f8ndag 21.  september 2025"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1800,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 1, Prewash, Mild, 30\u00b0C, Color, Very, Rinse",
+          "Time": "15:59",
+          "Unit": "Washer 5",
+          "UnitId": 5
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, Color, Very, Rinse",
+          "Time": "16:00",
+          "Unit": "Washer 6",
+          "UnitId": 6
+        }
+      ],
+      "LinesTotal": 3300,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -3300,
+      "Title": "L\u00f8rdag 6.  september 2025"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "DKK"
+      ],
+      "LinesTotal": 0,
+      "LocationId": 0,
+      "Payments": [
+        {
+          "Amount": -19080,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Overf\u00f8rt til husleje",
+          "Time": "21:07",
+          "Unit": "",
+          "UnitId": 0
+        }
+      ],
+      "PaymentsTotal": -19080,
+      "Saldo": 0,
+      "Title": "S\u00f8ndag 24.  august 2025"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1800,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, White, Very, Rinse",
+          "Time": "19:18",
+          "Unit": "Washer 1",
+          "UnitId": 1
+        },
+        {
+          "Amount": 1800,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 4, Prewash, Normal, 40\u00b0C, Color, Very, Rinse",
+          "Time": "19:18",
+          "Unit": "Washer 5",
+          "UnitId": 5
+        },
+        {
+          "Amount": 1800,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 15, ExtraT\u00f8rt, 70\u00b0C, 30 minutes",
+          "Time": "20:57",
+          "Unit": "Dryer 10",
+          "UnitId": 10
+        },
+        {
+          "Amount": 2340,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 15, ExtraT\u00f8rt, 70\u00b0C, 39 minutes",
+          "Time": "21:07",
+          "Unit": "Dryer 11",
+          "UnitId": 11
+        }
+      ],
+      "LinesTotal": 7740,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -19080,
+      "Title": "S\u00f8ndag 24.  august 2025"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1800,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, Color, Very, Rinse",
+          "Time": "15:45",
+          "Unit": "Washer 1",
+          "UnitId": 1
+        },
+        {
+          "Amount": 1800,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 2, Prewash, Mild, 40\u00b0C, Color, Very, Rinse",
+          "Time": "15:45",
+          "Unit": "Washer 5",
+          "UnitId": 5
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 1, Prewash, Mild, 30\u00b0C, Color, Very, Rinse",
+          "Time": "15:45",
+          "Unit": "Washer 6",
+          "UnitId": 6
+        },
+        {
+          "Amount": 2700,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 14, ExtraT\u00f8rt, 55\u00b0C, 45 minutes",
+          "Time": "17:22",
+          "Unit": "Dryer 11",
+          "UnitId": 11
+        },
+        {
+          "Amount": 3540,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 15, ExtraT\u00f8rt, 70\u00b0C, 59 minutes",
+          "Time": "17:56",
+          "Unit": "Dryer 9",
+          "UnitId": 9
+        }
+      ],
+      "LinesTotal": 11340,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -11340,
+      "Title": "L\u00f8rdag 16.  august 2025"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "DKK"
+      ],
+      "LinesTotal": 0,
+      "LocationId": 0,
+      "Payments": [
+        {
+          "Amount": -11280,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Overf\u00f8rt til husleje",
+          "Time": "20:15",
+          "Unit": "",
+          "UnitId": 0
+        }
+      ],
+      "PaymentsTotal": -11280,
+      "Saldo": 0,
+      "Title": "Mandag 28.  juli 2025"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1800,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 1, Prewash, Mild, 30\u00b0C, Color, Very, Rinse",
+          "Time": "18:23",
+          "Unit": "Washer 1",
+          "UnitId": 1
+        },
+        {
+          "Amount": 1800,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, Color, Very, Rinse",
+          "Time": "18:23",
+          "Unit": "Washer 5",
+          "UnitId": 5
+        },
+        {
+          "Amount": 2220,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 15, ExtraT\u00f8rt, 70\u00b0C, 37 minutes",
+          "Time": "20:12",
+          "Unit": "Dryer 10",
+          "UnitId": 10
+        },
+        {
+          "Amount": 2460,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 14, ExtraT\u00f8rt, 55\u00b0C, 41 minutes",
+          "Time": "20:15",
+          "Unit": "Dryer 11",
+          "UnitId": 11
+        }
+      ],
+      "LinesTotal": 8280,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -11280,
+      "Title": "Mandag 28.  juli 2025"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, Color, Very, Rinse",
+          "Time": "14:42",
+          "Unit": "Washer 2",
+          "UnitId": 2
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 1, Prewash, Mild, 30\u00b0C, Color, Very, Rinse",
+          "Time": "14:42",
+          "Unit": "Washer 3",
+          "UnitId": 3
+        }
+      ],
+      "LinesTotal": 3000,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -3000,
+      "Title": "Tirsdag 1.  juli 2025"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "DKK"
+      ],
+      "LinesTotal": 0,
+      "LocationId": 0,
+      "Payments": [
+        {
+          "Amount": -7800,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Overf\u00f8rt til husleje",
+          "Time": "15:30",
+          "Unit": "",
+          "UnitId": 0
+        }
+      ],
+      "PaymentsTotal": -7800,
+      "Saldo": 0,
+      "Title": "S\u00f8ndag 22.  juni 2025"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1800,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, Color, Very, Rinse",
+          "Time": "15:27",
+          "Unit": "Washer 1",
+          "UnitId": 1
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 1, Prewash, Mild, 30\u00b0C, Color, Very, Rinse",
+          "Time": "15:30",
+          "Unit": "Washer 2",
+          "UnitId": 2
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 1, Prewash, Mild, 30\u00b0C, Color, Very, Rinse",
+          "Time": "15:30",
+          "Unit": "Washer 8",
+          "UnitId": 8
+        }
+      ],
+      "LinesTotal": 4800,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -7800,
+      "Title": "S\u00f8ndag 22.  juni 2025"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 1, Prewash, Mild, 30\u00b0C, Color, Very, Rinse",
+          "Time": "16:03",
+          "Unit": "Washer 8",
+          "UnitId": 8
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, Color, Very, Rinse",
+          "Time": "16:04",
+          "Unit": "Washer 2",
+          "UnitId": 2
+        }
+      ],
+      "LinesTotal": 3000,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -3000,
+      "Title": "Onsdag 4.  juni 2025"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "DKK"
+      ],
+      "LinesTotal": 0,
+      "LocationId": 0,
+      "Payments": [
+        {
+          "Amount": -7800,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Overf\u00f8rt til husleje",
+          "Time": "16:45",
+          "Unit": "",
+          "UnitId": 0
+        }
+      ],
+      "PaymentsTotal": -7800,
+      "Saldo": 0,
+      "Title": "S\u00f8ndag 25.  maj 2025"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1800,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, White, Very, Rinse",
+          "Time": "16:45",
+          "Unit": "Washer 5",
+          "UnitId": 5
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 4, Prewash, Normal, 40\u00b0C, Color, Very, Rinse",
+          "Time": "16:45",
+          "Unit": "Washer 7",
+          "UnitId": 7
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 4, Prewash, Normal, 40\u00b0C, Color, Very, Rinse",
+          "Time": "16:45",
+          "Unit": "Washer 8",
+          "UnitId": 8
+        }
+      ],
+      "LinesTotal": 4800,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -7800,
+      "Title": "S\u00f8ndag 25.  maj 2025"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, White, Very, Rinse",
+          "Time": "14:52",
+          "Unit": "Washer 2",
+          "UnitId": 2
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 4, Prewash, Normal, 40\u00b0C, Color, Normal, Rinse",
+          "Time": "14:52",
+          "Unit": "Washer 3",
+          "UnitId": 3
+        }
+      ],
+      "LinesTotal": 3000,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -3000,
+      "Title": "Mandag 5.  maj 2025"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "DKK"
+      ],
+      "LinesTotal": 0,
+      "LocationId": 0,
+      "Payments": [
+        {
+          "Amount": -9000,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Overf\u00f8rt til husleje",
+          "Time": "14:19",
+          "Unit": "",
+          "UnitId": 0
+        }
+      ],
+      "PaymentsTotal": -9000,
+      "Saldo": 0,
+      "Title": "2. p\u00e5skedag 21.  april 2025"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, Color, Very, Rinse",
+          "Time": "14:19",
+          "Unit": "Washer 7",
+          "UnitId": 7
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 4, Prewash, Normal, 40\u00b0C, Color, Very, Rinse",
+          "Time": "14:19",
+          "Unit": "Washer 8",
+          "UnitId": 8
+        }
+      ],
+      "LinesTotal": 3000,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -9000,
+      "Title": "2. p\u00e5skedag 21.  april 2025"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, Color, Normal, Rinse",
+          "Time": "16:18",
+          "Unit": "Washer 2",
+          "UnitId": 2
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 4, Prewash, Normal, 40\u00b0C, Color, Normal, Rinse",
+          "Time": "16:19",
+          "Unit": "Washer 3",
+          "UnitId": 3
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, Color, Normal, Rinse",
+          "Time": "16:19",
+          "Unit": "Washer 4",
+          "UnitId": 4
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 4, Prewash, Normal, 40\u00b0C, Color, Normal, Rinse",
+          "Time": "16:19",
+          "Unit": "Washer 8",
+          "UnitId": 8
+        }
+      ],
+      "LinesTotal": 6000,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -6000,
+      "Title": "S\u00f8ndag 6.  april 2025"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "DKK"
+      ],
+      "LinesTotal": 0,
+      "LocationId": 0,
+      "Payments": [
+        {
+          "Amount": -6000,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Overf\u00f8rt til husleje",
+          "Time": "09:12",
+          "Unit": "",
+          "UnitId": 0
+        }
+      ],
+      "PaymentsTotal": -6000,
+      "Saldo": 0,
+      "Title": "Fredag 21.  marts 2025"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 2, Prewash, Mild, 40\u00b0C, Color, Little, Rinse",
+          "Time": "09:12",
+          "Unit": "Washer 2",
+          "UnitId": 2
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, White, Very, Rinse",
+          "Time": "09:12",
+          "Unit": "Washer 3",
+          "UnitId": 3
+        }
+      ],
+      "LinesTotal": 3000,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -6000,
+      "Title": "Fredag 21.  marts 2025"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Normal, 60\u00b0C, Color, Normal, Rinse",
+          "Time": "16:07",
+          "Unit": "Washer 3",
+          "UnitId": 3
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 4, Normal, 40\u00b0C, Color, Very, Rinse",
+          "Time": "16:07",
+          "Unit": "Washer 6",
+          "UnitId": 6
+        }
+      ],
+      "LinesTotal": 3000,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -3000,
+      "Title": "S\u00f8ndag 9.  marts 2025"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "DKK"
+      ],
+      "LinesTotal": 0,
+      "LocationId": 0,
+      "Payments": [
+        {
+          "Amount": -10740,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Overf\u00f8rt til husleje",
+          "Time": "10:27",
+          "Unit": "",
+          "UnitId": 0
+        }
+      ],
+      "PaymentsTotal": -10740,
+      "Saldo": 0,
+      "Title": "S\u00f8ndag 23.  februar 2025"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 4, Normal, 40\u00b0C, Color, Normal, Rinse",
+          "Time": "08:45",
+          "Unit": "Washer 7",
+          "UnitId": 7
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Normal, 60\u00b0C, Color, Very, Rinse",
+          "Time": "08:45",
+          "Unit": "Washer 8",
+          "UnitId": 8
+        },
+        {
+          "Amount": 2640,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 14, ExtraT\u00f8rt, 55\u00b0C, 44 minutes",
+          "Time": "10:27",
+          "Unit": "Dryer 11",
+          "UnitId": 11
+        }
+      ],
+      "LinesTotal": 5640,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -10740,
+      "Title": "S\u00f8ndag 23.  februar 2025"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 1, Mild, 30\u00b0C, Color, Very, Rinse",
+          "Time": "12:51",
+          "Unit": "Washer 7",
+          "UnitId": 7
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Normal, 60\u00b0C, White, Very, Rinse",
+          "Time": "12:51",
+          "Unit": "Washer 8",
+          "UnitId": 8
+        },
+        {
+          "Amount": 2100,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 14, ExtraT\u00f8rt, 55\u00b0C, 35 minutes",
+          "Time": "14:04",
+          "Unit": "Dryer 10",
+          "UnitId": 10
+        }
+      ],
+      "LinesTotal": 5100,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -5100,
+      "Title": "S\u00f8ndag 9.  februar 2025"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "DKK"
+      ],
+      "LinesTotal": 0,
+      "LocationId": 0,
+      "Payments": [
+        {
+          "Amount": -14880,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Overf\u00f8rt til husleje",
+          "Time": "12:47",
+          "Unit": "",
+          "UnitId": 0
+        }
+      ],
+      "PaymentsTotal": -14880,
+      "Saldo": 0,
+      "Title": "S\u00f8ndag 26.  januar 2025"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 1, Mild, 30\u00b0C, White, Little, Rinse",
+          "Time": "10:39",
+          "Unit": "Washer 4",
+          "UnitId": 4
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Normal, 60\u00b0C, White, Very, Rinse",
+          "Time": "10:39",
+          "Unit": "Washer 7",
+          "UnitId": 7
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 4, Normal, 40\u00b0C, Color, Normal, Rinse",
+          "Time": "10:39",
+          "Unit": "Washer 8",
+          "UnitId": 8
+        },
+        {
+          "Amount": 3660,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 15, ExtraT\u00f8rt, 70\u00b0C, 61 minutes",
+          "Time": "12:47",
+          "Unit": "Dryer 11",
+          "UnitId": 11
+        }
+      ],
+      "LinesTotal": 8160,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -14880,
+      "Title": "S\u00f8ndag 26.  januar 2025"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1800,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 1, Prewash, Mild, 30\u00b0C, Color, Little, Rinse",
+          "Time": "17:39",
+          "Unit": "Washer 1",
+          "UnitId": 1
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, Color, Very, Rinse",
+          "Time": "17:40",
+          "Unit": "Washer 7",
+          "UnitId": 7
+        },
+        {
+          "Amount": 3420,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 15, ExtraT\u00f8rt, 70\u00b0C, 57 minutes",
+          "Time": "19:48",
+          "Unit": "Dryer 11",
+          "UnitId": 11
+        }
+      ],
+      "LinesTotal": 6720,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -6720,
+      "Title": "S\u00f8ndag 5.  januar 2025"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "DKK"
+      ],
+      "LinesTotal": 0,
+      "LocationId": 0,
+      "Payments": [
+        {
+          "Amount": -14160,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Overf\u00f8rt til husleje",
+          "Time": "15:46",
+          "Unit": "",
+          "UnitId": 0
+        }
+      ],
+      "PaymentsTotal": -14160,
+      "Saldo": 0,
+      "Title": "S\u00f8ndag 22.  december 2024"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, Color, Very, Rinse",
+          "Time": "13:47",
+          "Unit": "Washer 2",
+          "UnitId": 2
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 4, Prewash, Normal, 40\u00b0C, Color, Very, Rinse",
+          "Time": "13:47",
+          "Unit": "Washer 3",
+          "UnitId": 3
+        },
+        {
+          "Amount": 2940,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 15, ExtraT\u00f8rt, 70\u00b0C, 49 minutes",
+          "Time": "15:46",
+          "Unit": "Dryer 10",
+          "UnitId": 10
+        }
+      ],
+      "LinesTotal": 5940,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -14160,
+      "Title": "S\u00f8ndag 22.  december 2024"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1800,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 4, Prewash, Normal, 40\u00b0C",
+          "Time": "12:03",
+          "Unit": "Washer 1",
+          "UnitId": 1
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 1, Prewash, Mild, 30\u00b0C, Color, Very, Rinse",
+          "Time": "12:03",
+          "Unit": "Washer 2",
+          "UnitId": 2
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Normal, 60\u00b0C, Color, Little, Rinse",
+          "Time": "12:03",
+          "Unit": "Washer 3",
+          "UnitId": 3
+        },
+        {
+          "Amount": 3420,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 15, ExtraT\u00f8rt, 70\u00b0C, 57 minutes",
+          "Time": "14:38",
+          "Unit": "Dryer 10",
+          "UnitId": 10
+        }
+      ],
+      "LinesTotal": 8220,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -8220,
+      "Title": "Fredag 13.  december 2024"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "DKK"
+      ],
+      "LinesTotal": 0,
+      "LocationId": 0,
+      "Payments": [
+        {
+          "Amount": -12092,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Overf\u00f8rt til husleje",
+          "Time": "20:56",
+          "Unit": "",
+          "UnitId": 0
+        }
+      ],
+      "PaymentsTotal": -12092,
+      "Saldo": 0,
+      "Title": "Fredag 22.  november 2024"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1800,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, White, Very, Rinse",
+          "Time": "19:05",
+          "Unit": "Washer 1",
+          "UnitId": 1
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 4, Prewash, Normal, 40\u00b0C, Color, Normal, Rinse",
+          "Time": "19:05",
+          "Unit": "Washer 2",
+          "UnitId": 2
+        },
+        {
+          "Amount": 2400,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 15, ExtraT\u00f8rt, 70\u00b0C, 40 minutes",
+          "Time": "20:56",
+          "Unit": "Dryer 11",
+          "UnitId": 11
+        }
+      ],
+      "LinesTotal": 5700,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -12092,
+      "Title": "Fredag 22.  november 2024"
+    },
+    {
+      "Currency": "DKK",
+      "Description": [
+        "Sprotoften 51",
+        "DKK"
+      ],
+      "Lines": [
+        {
+          "Amount": 1800,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Program 5, Prewash, Normal, 60\u00b0C, Color, Normal, Rinse",
+          "Time": "10:58",
+          "Unit": "Washer 1",
+          "UnitId": 1
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Empty",
+          "Time": "10:58",
+          "Unit": "Washer 2",
+          "UnitId": 2
+        },
+        {
+          "Amount": 1500,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "Empty",
+          "Time": "10:58",
+          "Unit": "Washer 7",
+          "UnitId": 7
+        },
+        {
+          "Amount": 1592,
+          "Returned": false,
+          "Tag": 0,
+          "Text": "27 minutes",
+          "Time": "12:36",
+          "Unit": "Dryer 9",
+          "UnitId": 9
+        }
+      ],
+      "LinesTotal": 6392,
+      "LocationId": 10,
+      "PaymentsTotal": 0,
+      "Saldo": -6392,
+      "Title": "Onsdag 6.  november 2024"
+    }
+  ],
+  "Return": 100,
+  "ReturnTime": 1781,
+  "Sections": [
+    {
+      "Collapsed": false,
+      "Name": "statement",
+      "Rows": [
+        {
+          "Columns2": {
+            "Cells": [
+              "Nuv\u00e6rende saldo:",
+              "-116,40 DKK"
+            ],
+            "Type": 4
+          }
+        },
+        {
+          "Columns2": {
+            "Cells": [
+              "Sidste periode:",
+              "-109,80 DKK"
+            ],
+            "Type": 4
+          }
+        }
+      ],
+      "Title": "Saldo"
+    }
+  ],
+  "ServerId": 1,
+  "Session": "Q2sEBeRQ4xkJwcaB6cRufoD5WrFScc3AncLSAcQPyozGyYACOhJDThk0PhTLgtRLxhN4Lad7uKW8QcDDbwoG-oV9D6T0ttREqrbCKINlPBkbih2Dmh-GRgy222E",
+  "Tick": "1794604640512"
+}
