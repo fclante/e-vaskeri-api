@@ -40,3 +40,12 @@ pass 2 environment variables: `E_VASKERI_USERNAME` and `E_VASKERI_PASSWORD` when
 `E_VASKERI_USERNAME` should contain the username for your user on the E-Vaskeri API.
 `E_VASKERI_PASSWORD` should contain the password for your user on the E-Vaskeri API.
 
+### Docker Compose
+
+Copy `.env.example` to `.env`, fill in the credentials, then start the API on port 5000:
+
+```sh
+cp .env.example .env
+docker compose up --build
+```
+

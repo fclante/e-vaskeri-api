@@ -1,0 +1,9 @@
+services:
+  api:
+    build: .
+    ports:
+      - "5000:5000"
+    environment:
+      E_VASKERI_USERNAME: ${E_VASKERI_USERNAME:?set E_VASKERI_USERNAME in .env}
+      E_VASKERI_PASSWORD: ${E_VASKERI_PASSWORD:?set E_VASKERI_PASSWORD in .env}
+    restart: unless-stopped
