@@ -1,6 +1,7 @@
 {
   "name": "evaskeri-api",
   "image": "python:3.12",
+  "postCreateCommand": "pip install uv && uv sync",
   "customizations": {
     "vscode": {
       "extensions": [
