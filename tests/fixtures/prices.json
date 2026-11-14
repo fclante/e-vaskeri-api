@@ -1,0 +1,24 @@
+{
+  "Cover": "image1/backdrop/girl5",
+  "Sections": [
+    {
+      "Name": "Price10",
+      "Title": "Priser",
+      "Description": ["Testvej 1"],
+      "Rows": [
+        {"Columns2": {"Cells": ["Vaskemaskine 1 & 5"], "Type": 3}},
+        {"Columns2": {"Cells": ["Pris pr. start", "18,00 kr."], "Type": 4}},
+        {"Columns2": {"Cells": ["Vaskemaskine 2 - 4, 6 - 8"], "Type": 3}},
+        {"Columns2": {"Cells": ["Pris pr. start", "15,00 kr."], "Type": 4}},
+        {"Columns2": {"Cells": ["Tørretumbler 9 - 11"], "Type": 3}},
+        {"Columns2": {"Cells": ["Pris pr. time", "36,00 kr."], "Type": 4}}
+      ],
+      "Collapsed": false
+    }
+  ],
+  "Tick": "1794607000000",
+  "ReturnTime": 16,
+  "ServerId": 1,
+  "Session": "REDACT",
+  "Return": 100
+}

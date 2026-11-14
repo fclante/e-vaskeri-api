@@ -1,0 +1,75 @@
+{
+  "Cover": "image1/backdrop/girl5",
+  "Periods": [
+    {
+      "Saldo": -3300,
+      "Period": 0,
+      "Title": "6 - 22. november 2025",
+      "Description": ["Forbrug overført til husleje"],
+      "Sections": [
+        {
+          "Subtotal": -1800,
+          "Saldo": -1800,
+          "Title": "Torsdag 6.  november 2025",
+          "LocationId": 10,
+          "Description": ["Testvej 1"],
+          "Lines": [
+            {"UnitId": 1, "Time": "10:36", "UnitText": "Vaskemaskine 1", "Text": "Program 5 Normal 60°, forvask, kulørt sæbe, skylle", "Amount": -1800, "Currency": "DKK", "Tag": 1, "Returned": false}
+          ]
+        },
+        {
+          "Subtotal": -1500,
+          "Saldo": -3300,
+          "Title": "Søndag 22.  november 2025",
+          "LocationId": 10,
+          "Description": ["Testvej 1"],
+          "Lines": [
+            {"UnitId": 2, "Time": "18:05", "UnitText": "Vaskemaskine 2", "Text": "Program 2 Mild 40°", "Amount": -1500, "Currency": "DKK", "Tag": 1, "Returned": false}
+          ]
+        }
+      ]
+    },
+    {
+      "Saldo": -5100,
+      "Period": 0,
+      "Title": "13. januar 2026",
+      "Description": ["Forbrug overført til husleje"],
+      "Sections": [
+        {
+          "Subtotal": -1800,
+          "Saldo": -5100,
+          "Title": "Tirsdag 13.  januar 2026",
+          "LocationId": 10,
+          "Description": ["Testvej 1"],
+          "Lines": [
+            {"UnitId": 9, "Time": "09:15", "UnitText": "Tørretumbler 9", "Text": "Tørring 30 min", "Amount": -1800, "Currency": "DKK", "Tag": 1, "Returned": false}
+          ]
+        }
+      ]
+    },
+    {
+      "Saldo": -6200,
+      "Period": 0,
+      "Title": "6. februar 2026",
+      "Sections": [
+        {
+          "Subtotal": -1100,
+          "Saldo": -6200,
+          "Title": "Fredag 6.  februar 2026",
+          "LocationId": 10,
+          "Description": ["Testvej 1"],
+          "Lines": [
+            {"UnitId": 1, "Time": "11:00", "UnitText": "Vaskemaskine 1", "Text": "Program 5 Normal 60°C", "Amount": -1100, "Currency": "DKK", "Tag": 1, "Returned": true}
+          ]
+        }
+      ]
+    }
+  ],
+  "Rate": 0,
+  "Sections": [{"Name": "statement", "Title": "Saldo", "Description": [""], "Rows": [], "Collapsed": false}],
+  "Tick": "1794607000000",
+  "ReturnTime": 100,
+  "ServerId": 1,
+  "Session": "REDACT",
+  "Return": 100
+}

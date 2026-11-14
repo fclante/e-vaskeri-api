@@ -1,0 +1,30 @@
+{
+  "Cover": "image1/backdrop/girl5",
+  "Sections": [
+    {
+      "Name": "Messages100000000002",
+      "Title": "mandag, 5.  august kl. 10:12",
+      "Description": [""],
+      "Rows": [
+        {"Columns2": {"Cells": ["Engangskode"], "Type": 11}},
+        {"Columns2": {"Cells": ["<html><head><title>Engangskode</title></head><body>\r\n<strong>Hej test@example.com</strong><br/>\r\n<br/>\r\nEngangskode: <strong>123456</strong><br/>\r\n<br/>\r\nVenlig hilsen<br/>\r\n<strong>Nortec</strong>\r\n</body>\r\n</html>"], "Type": 14}}
+      ],
+      "Collapsed": false
+    },
+    {
+      "Name": "Messages100000000001",
+      "Title": "tirsdag, 6.  maj kl. 08:00",
+      "Description": [""],
+      "Rows": [
+        {"Columns2": {"Cells": ["Vandafbrydelse"], "Type": 11}},
+        {"Columns2": {"Cells": ["Vaskeriet er lukket torsdag <b>kl. 9-12</b> pga. service.<br/>Beklager ulejligheden."], "Type": 14}}
+      ],
+      "Collapsed": false
+    }
+  ],
+  "Tick": "1794607000000",
+  "ReturnTime": 47,
+  "ServerId": 1,
+  "Session": "REDACT",
+  "Return": 100
+}

@@ -1,0 +1,93 @@
+{
+ "Cover": "image1/backdrop/girl5",
+ "Placeholder": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 10000 10000\"><circle xmlns=\"http://www.w3.org/2000/svg\" fill=\"#EEEEEE\" cx=\"5000\" cy=\"5000\" r=\"5000\"/></svg>",
+ "Return": 100,
+ "ReturnTime": 46,
+ "Sections": [
+  {
+   "Collapsed": false,
+   "Description": [
+    "På denne oversigt kan du se, hvilke maskiner der er ledige i dit vaskeri – og hvornår programmet slutter på de maskiner, der er i brug."
+   ],
+   "Name": "LiveL10",
+   "Rows": [
+    {
+     "Units": [
+      {
+       "SVG": "unit5/A1jHioq8PRKXF1JFkNlRPT5ahDL7es1Z6GZGIkstCrxoGKsqDYZd4KfeIhfGGkxoshylzt84vvCAUyHB9mNA96OCOKQGqBwPAA",
+       "Status": "Fri",
+       "Text": "Vaskemaskine 1"
+      },
+      {
+       "SVG": "unit5/A5jHioq8PRKXF1JFkNlRPT5ahDL7es1Z6GZGIkstCrxoGKsqDYZd4KfeIhfGGkxoshylzt84vvCAUyHB9mNAN6OCOKQGqBwPAA",
+       "Status": "Fri",
+       "Text": "Vaskemaskine 2"
+      },
+      {
+       "SVG": "unit5/A9jHioq8PRKXF1JFkNlRPT5ahDL7es1Z6GZGIkstCrxoGKsqDYZd4KfeIhfGGkxoshylzt84vvCAUyHB9mNAd6OCOKQGqBwPAA",
+       "Status": "Fri",
+       "Text": "Vaskemaskine 3"
+      },
+      {
+       "SVG": "unit5/AxnHioq8PRKXF1JFkNlRPT5ahDL7es1Z6GZGIkstCrxoGKsqDYZd4KfeIhfGGkxoshylzt84vvCAUyHB9mNBt6OCOKQGqBwPAA",
+       "Status": "Fri",
+       "Text": "Vaskemaskine 4"
+      },
+      {
+       "SVG": "unit5/A1nHioq8PRKXF1JFkNlRPT5ahDL7es1Z6GZGIkstCrxoGKsqDYZd4KfeIhfGGkxoshylzt84vvCAUyHB9mNB96OCOKQGqBwPAA",
+       "Status": "Fri",
+       "Text": "Vaskemaskine 5"
+      },
+      {
+       "SVG": "unit5/A5nHioq8PRKXF1JFkNlRPT5ahDL7es1Z6GZGIkstCrxoGKsqDYZd4KfeIhfGGkxoshylzt84vvCAUyHB9mNBN6OCOKQGqBwPAA",
+       "Status": "Fri",
+       "Text": "Vaskemaskine 6"
+      },
+      {
+       "SVG": "unit5/A9nHioq8PRKXF1JFkNlRPT5ahDL7es1Z6GZGIkstCrxoGKsqDYZd4KfeIhfGGkxoshylzt84vvCAUyHB9mNBd6OCOKQGqBwPAA",
+       "Status": "Fri",
+       "Text": "Vaskemaskine 7"
+      },
+      {
+       "SVG": "unit5/AxrHioq8PRKXF1JFkNlRPT5ahDL7es1Z6GZGIkstCrxoGKsqDYZd4KfeIhfGGkxoshylzt84vvCAUyHB9mNCt6OCOKQGqBwPAA",
+       "Status": "Fri",
+       "Text": "Vaskemaskine 8"
+      },
+      {
+       "SVG": "unit5/A1rHioq8PRKXF1JFkNlRPT5ahDL7es1Z6GZGIkstCrxoGKsqDYZd4KfeIhfGGkxoshylzt84vvCAUyHB9mNC96OCOKQGqBwPAA",
+       "Status": "Fri",
+       "Text": "Tørretumbler 9"
+      },
+      {
+       "SVG": "unit5/A5rHioq8PRKXF1JFkNlRPT5ahDL7es1Z6GZGIkstCrxoGKsqDYZd4KfeIhfGGkxoshylzt84vvCAUyHB9mNCN6OCOKQGqBwPAA",
+       "Status": "Fri",
+       "Text": "Tørretumbler 10"
+      },
+      {
+       "SVG": "unit5/A9rHioq8PRKXF1JFkNlRPT5ahDL7es1Z6GZGIkstCrxoGKsqDYZd4KfeIhfGGkxoshylzt84vvCAUyHB9mNCd6OCOKQGqBwPAA",
+       "Status": "Fri",
+       "Text": "Tørretumbler 11"
+      },
+      {
+       "SVG": "unit5/AxvHioq8PRKXF1JFkNlRPT5ahDL7es1Z6GZGIkstCrxoGKsqDYZd4KfeIhfGGkxoshylzt84vvCAUyHB9mNDt6OCOKQGqBwPAA",
+       "Status": "Fri",
+       "Text": "Strygerulle 12"
+      }
+     ]
+    },
+    {
+     "Columns2": {
+      "Cells": [
+       "Aktualiseret: 22:18"
+      ],
+      "Type": 5
+     }
+    }
+   ],
+   "Title": "Sprotoften 51"
+  }
+ ],
+ "ServerId": 1,
+ "Session": "REDACTED",
+ "Tick": "0"
+}

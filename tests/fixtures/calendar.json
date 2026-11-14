@@ -1,0 +1,70 @@
+{
+  "Cover": "image1/backdrop/girl5",
+  "Sections": [
+    {
+      "Name": "cal0",
+      "Title": "Testvej 1",
+      "Description": ["Vaskemaskine 1 - 3"],
+      "Rows": [
+        {
+          "Calendar": {
+            "Date": "2026-11-13T00:00:00.000",
+            "Today": 0,
+            "Scale": 60,
+            "Layout": 87,
+            "Start": 420,
+            "Duration": 720,
+            "Now": -1,
+            "Individual": true,
+            "Remaning": 2,
+            "From": "2026-11-13T00:00:00.000",
+            "To": "2027-12-18T00:00:00.000",
+            "Disabled": false,
+            "CalendarId": 1,
+            "Units": [
+              {"UnitId": 1, "Text": "Vaskemaskine 1"},
+              {"UnitId": 2, "Text": "Vaskemaskine 2"},
+              {"UnitId": 3, "Text": "Vaskemaskine 3"}
+            ],
+            "Days": [
+              {
+                "Date": "2026-11-13T00:00:00.000", "DayName": "I dag", "Day": 13, "Month": "november",
+                "Turns": [
+                  {"Duration": 180, "Crop": 0, "Type": 3, "Pct": 0, "Green": 0},
+                  {"Duration": 180, "Crop": 0, "Type": 3, "Pct": 0, "Green": 0},
+                  {"Duration": 180, "Crop": 0, "Type": 6, "Session": "REDACT-BOOKING-SESSION", "Occupied": [8, 8, 0], "Pct": 66, "Green": 222},
+                  {"Duration": 180, "Crop": 0, "Type": 6, "Session": "REDACT-BOOKING-SESSION", "Occupied": [0, 0, 0], "Pct": 0, "Green": 222}
+                ]
+              },
+              {
+                "Date": "2026-11-14T00:00:00.000", "DayName": "I morgen", "Day": 14, "Month": "november",
+                "Turns": [
+                  {"Duration": 180, "Crop": 0, "Type": 6, "Session": "REDACT-BOOKING-SESSION", "Occupied": [8, 8, 8], "Pct": 100, "Green": 222},
+                  {"Duration": 180, "Crop": 0, "Type": 6, "Session": "REDACT-BOOKING-SESSION", "Occupied": [7, 8, 8], "Pct": 100, "Green": 222},
+                  {"Duration": 180, "Crop": 0, "Type": 5, "Pct": 0, "Green": 0},
+                  {"Duration": 180, "Crop": 0, "Type": 9, "Pct": 0, "Green": 0}
+                ]
+              },
+              {
+                "Date": "2026-11-15T00:00:00.000", "DayName": "Søndag", "Day": 15, "Month": "november",
+                "Turns": [
+                  {"Duration": 60, "Crop": 0, "Type": 4, "Pct": 0, "Green": 0},
+                  {"Duration": 120, "Crop": 0, "Type": 0, "Session": "REDACT-BOOKING-SESSION", "Pct": 0, "Green": 0},
+                  {"Duration": 180, "Crop": 0, "Type": 1, "Pct": 0, "Green": 0},
+                  {"Duration": 180, "Crop": 0, "Type": 2, "Pct": 0, "Green": 0},
+                  {"Duration": 180, "Crop": 0, "Type": 99, "Pct": 0, "Green": 0}
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "Collapsed": false
+    }
+  ],
+  "Tick": "1794607000000",
+  "ReturnTime": 100,
+  "ServerId": 1,
+  "Session": "REDACT",
+  "Return": 100
+}
