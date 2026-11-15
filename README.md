@@ -92,7 +92,6 @@ uv lock --upgrade                         # upgrade locked versions
 |---|---|---|
 | `E_VASKERI_USERNAME` | | Your E-Vaskeri username (required) |
 | `E_VASKERI_PASSWORD` | | Your E-Vaskeri password (required) |
-| `API_KEY` | | If set, `X-API-Key` must match on `/api/v1` and legacy endpoints. `/health`, `/ready`, `/metrics` and the docs stay open. |
 | `LOG_LEVEL` | `INFO` | Log level |
 | `MACHINES_TTL_SECONDS` | `20` | Cache time for machine state |
 | `ACCOUNT_TTL_SECONDS` | `600` | Cache time for balance/statement/stats/periods/prices/messages |

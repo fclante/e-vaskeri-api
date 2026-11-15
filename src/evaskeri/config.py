@@ -19,7 +19,6 @@ class Config:
     base_url: str = field(default_factory=lambda: os.environ.get("E_VASKERI_BASE_URL", "https://back-nortec.datpro2.dk").rstrip("/"))
     username: str | None = field(default_factory=lambda: os.environ.get("E_VASKERI_USERNAME") or None)
     password: str | None = field(default_factory=lambda: os.environ.get("E_VASKERI_PASSWORD") or None)
-    api_key: str | None = field(default_factory=lambda: os.environ.get("API_KEY") or None)
     log_level: str = field(default_factory=lambda: os.environ.get("LOG_LEVEL", "INFO").upper())
     machines_ttl: float = field(default_factory=lambda: _float("MACHINES_TTL_SECONDS", 20))
     account_ttl: float = field(default_factory=lambda: _float("ACCOUNT_TTL_SECONDS", 600))

@@ -34,7 +34,7 @@ def statement():
 @pytest.fixture
 def config():
     return Config(
-        base_url=BASE, username="user", password="secret-pass", api_key=None, machines_ttl=0, account_ttl=0,
+        base_url=BASE, username="user", password="secret-pass", machines_ttl=0, account_ttl=0,
         calendar_ttl=0, refresh_check=False, refresh_shadow_live=False, refresh_skip_live=False,
     )
 

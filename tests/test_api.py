@@ -270,7 +270,7 @@ def test_health_and_ready(client, mocked):
 
 def test_not_ready_without_credentials(mocked):
     HEALTH.reset()
-    app = create_app(Config(base_url=BASE, username=None, password=None, api_key=None))
+    app = create_app(Config(base_url=BASE, username=None, password=None))
     response = app.test_client().get("/ready")
     assert response.status_code == 503 and response.json["credentials_configured"] is False
 
@@ -301,15 +301,12 @@ def test_metrics_survive_upstream_failure(client, mocked):
     assert response.status_code == 200 and "evaskeri_build_info" in response.text
 
 
-def test_api_key(mocked, upstream):
+def test_api_is_not_gated_by_api_key_environment_variable(monkeypatch, mocked, upstream):
     HEALTH.reset()
-    app = create_app(Config(base_url=BASE, username="u", password="p", api_key="s3cret", machines_ttl=0))
+    monkeypatch.setenv("API_KEY", "ignored")
+    app = create_app(Config(base_url=BASE, username="u", password="p", machines_ttl=0))
     client = app.test_client()
-    assert client.get("/api/v1/machines").status_code == 401
-    assert client.get("/api/v1/machines", headers={"X-API-Key": "wrong"}).status_code == 401
-    assert client.get("/api/v1/machines", headers={"X-API-Key": "s3cret"}).status_code == 200
-    for open_path in ("/health", "/ready", "/metrics", "/api/swagger", "/api/openapi.json"):
-        assert client.get(open_path).status_code != 401, open_path
+    assert client.get("/api/v1/machines").status_code == 200
 
 
 def test_secrets_never_logged(client, upstream, caplog):
